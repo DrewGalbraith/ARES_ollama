@@ -142,7 +142,7 @@ print(results)
 # {'Context Relevance Scores': [Score], 'Answer Faithfulness Scores': [Score], 'Answer Relevance Scores': [Score]}
 ```
 
-#### Step 2) Run the following to retrive ARES's PPI scores with GPT3.5!
+#### Step 2) Run the following to retrieve ARES's PPI scores with GPT3.5!
 
 
 ```python
