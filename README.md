@@ -261,8 +261,11 @@ Annotated Examples used for PPI: 300
 ```
 
 <br>
+<hr>
 
 ### 🚀 Local Model Execution with vLLM
+
+<hr>
 
 ARES supports [vLLM](https://github.com/vllm-project/vllm), allowing for local execution of LLM models, offering enhanced privacy and the ability to operate ARES offline. Below are steps to vLLM for ARES's UES/IDP and PPI!
 
