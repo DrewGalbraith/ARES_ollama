@@ -117,7 +117,7 @@ ares.KILT_dataset("nq")
 ```
 <hr>
 
-### 🚀 Quick Start - #1
+### 🚀 Quick Start - #1 (Use Pretrained Classifier)
 
 <hr>
 
@@ -161,7 +161,7 @@ print(results)
 
 <hr>
 
-### 🚀 Quick Start - #2
+### 🚀 Quick Start - #2 (Train Your Own Classifier)
 
 <hr>
 
